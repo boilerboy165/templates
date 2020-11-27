@@ -12,4 +12,6 @@ category: bulb
 type: CCT
 standard: e26
 ---
-Tuya-Convert fails. You have to destructively take apart this bulb to serial flash.  
+Tuya-Convert fails. You have to destructively take apart this bulb to serial flash.
+
+Bulbs after Nov 2020 are coming with WB8P WiFi/Bluetooth chip inside that is not compatible with Tasmota.
